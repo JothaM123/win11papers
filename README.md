@@ -10,3 +10,9 @@
 
 ## Grey
 ![](https://raw.githubusercontent.com/JothaM123/win11papers/main/Win11papers%20Grey%20Light%20%401-1366x697.png)
+
+## Purple
+![](https://raw.githubusercontent.com/JothaM123/win11papers/main/Win11papers%20Purple%20Dark%20%401-1366x697.png)
+
+## Red
+![](https://raw.githubusercontent.com/JothaM123/win11papers/main/Win11papers%20%20Red%401-1350x681.png)
